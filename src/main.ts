@@ -10,5 +10,4 @@ export async function bootstrap() {
   console.log("server runing")
 
 }
-
-bootstrap();
+module.exports.bootstrap()
