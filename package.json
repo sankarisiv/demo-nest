@@ -1,5 +1,5 @@
 {
-  "name": "@sankarisiv/demo",
+  "name": "@sankarisiv/demo-nest",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sankarisiv/demo.git"
+    "url": "https://github.com/sankarisiv/demo-nest.git"
   },
   "publishConfig": {
     "sankarisiv:registry": "https://npm.pkg.github.com/."
